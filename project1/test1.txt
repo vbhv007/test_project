@@ -1,1 +1,1 @@
-conflict resolved
+1 is a number
